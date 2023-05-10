@@ -43,4 +43,4 @@ volumes:
 ```
 
 
-> still working on the terraform config to be continued
+> still working on the terraform config seems i have to use a provider AWS, Azure, Ocacle etc. => to be continued
