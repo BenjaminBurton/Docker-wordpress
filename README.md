@@ -41,3 +41,6 @@ volumes:
   db_data:
   wp_data:
 ```
+
+
+> still working on the terraform config to be continued
