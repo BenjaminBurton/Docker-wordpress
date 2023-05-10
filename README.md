@@ -1,9 +1,9 @@
 # Docker-wordpress
 
 > Launching a wordpress site has a configuration via their 
-[github in the awesome-compose repo]:https://github.com/docker/awesome-compose/tree/master/official-documentation-samples/wordpress/ 
+[github in the awesome-compose repo](https://github.com/docker/awesome-compose/tree/master/official-documentation-samples/wordpress/) 
 
-> Below the enviornment for a M1 Mac you have to add platform linux/x86_64 I found the fix from a blog by [catalins.tech]:https://catalins.tech/how-to-run-wordpress-locally-on-macos-with-docker-compose/
+> Below the enviornment for a M1 Mac you have to add platform linux/x86_64 I found the fix from a blog by [catalins.tech](https://catalins.tech/how-to-run-wordpress-locally-on-macos-with-docker-compose/)
 
 ```js
 services:
